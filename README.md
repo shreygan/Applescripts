@@ -1,3 +1,3 @@
 # applescripts
-custom applescripts for btt
+my custom applescripts for btt
 
